@@ -1,0 +1,2 @@
+# Vegans-Nearby-Search-Dashboard
+The dashboard is a resource for a vegan to locate nearby amenities. It allows users to find vegan food based on the following two criterias:- restaurants and grocery stores near their location, along with their respective ratings. It also allows the user to find animal shelters to do volunteering work, if need be, along with their ratings. The information has been obtained from www.yelp.com API.
