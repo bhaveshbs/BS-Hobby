@@ -380,7 +380,7 @@ def update_table(input_zipcode,select_category,select_radius):
                 lons.append(lon1)
                 names.append(i)
         
-    tab = a.loc[a.name.isin(names),['name','rating','address','phone','category']]
+    tab = a.loc[a.name.isin(names),['name','rating','address','phone']]
     return generate_table(tab)
 
 if __name__ == '__main__':
