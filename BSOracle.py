@@ -141,7 +141,6 @@ from dash import dcc
 from dash import html
 import pandas as pd
 from dash.dependencies import Input, Output, State
-import cufflinks as cf
 import pandas as pd
 import plotly.express as px  # (version 4.7.0 or higher)
 import plotly.graph_objects as go
